@@ -37,7 +37,18 @@ public class MainDBA extends AppCompatActivity {
 
         });
     }
-
+    <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:id="@+id/imageView2"
+    android:layout_weight="1"
+    android:src="@drawable/left1" />
+    <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:id="@+id/imageView2"
+    android:layout_weight="1"
+    android:src="@drawable/left1" />
 
    /* @Override
     public boolean onCreateOptionsMenu(Menu menu) {
